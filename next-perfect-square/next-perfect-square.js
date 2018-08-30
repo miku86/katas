@@ -9,6 +9,10 @@
 */
 
 function findNextSquare(input) {
+  // check if the input is a number, else return -1
+  // calculate the squareroot
+  // if the squareroot is an integer, increase it by one and return its square
+  // else return -1
 }
 
 module.exports = findNextSquare;
