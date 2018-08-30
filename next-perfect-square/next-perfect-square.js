@@ -9,22 +9,12 @@
 */
 
 function findNextSquare(input) {
-  // check if the input is a number, else return -1
-  if (!Number.isInteger(input)) return -1;
-  // with regex: if (!/\d+/.test(input)) return -1;
-
-  // calculate the squareroot
-  const squareroot = Math.sqrt(input);
-
-  // if the squareroot is not an integer, return -1
-  if (!Number.isInteger(squareroot)) return -1;
-
-  // else increase it by one
-  const increasedSquareroot = squareroot + 1;
-
-  // and return its square
-  const squareOfIncreasedSquareroot = Math.pow(increasedSquareroot, 2);
-  return squareOfIncreasedSquareroot;
+  // check if the input is an integer and the squareroot is an integer
+  return Number.isInteger(input) && Number.isInteger(Math.sqrt(input))
+    ? // increase it by one and return its square
+      Math.pow(Math.sqrt(input) + 1, 2)
+    : // else return -1
+      -1;
 }
 
 module.exports = findNextSquare;
