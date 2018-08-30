@@ -14,7 +14,8 @@ Also feel free to [contact me](#contact)
 
 [Source](https://www.codewars.com/kata/printer-errors)
 
-I solve the Katas step - by - step, you can have a look at the commits.
+I solve the Katas step-by-step, you can have a look at the commits.
+The final code is optimized for readability in a professional setting, not for "cleverness".
 
 ### Instructions:
 
