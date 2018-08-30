@@ -1,4 +1,4 @@
-# Next Perfect Square
+# Regex Validate Pin Code
 
 [Read this in the Parent Directory](https://github.com/miku86/katas)
 
