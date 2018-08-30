@@ -14,7 +14,9 @@ Also feel free to [contact me](#contact)
 
 [Source](https://www.codewars.com/kata/find-the-next-perfect-square)
 
-Instructions:
+I solve the Katas step-by-step, you can have a look at the commits.
+
+### Instructions:
 
 You might know some pretty large perfect squares. But what about the NEXT one?
 
