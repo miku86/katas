@@ -11,8 +11,11 @@
 
 function printerError(input) {
   // check length of input letters
-  // check length of invalid input letters
+  const lengthOfInput = input.length;
+  // check length of invalid input letters and be safe against "null"
+  const lengthOfInvalids = (input.match(/[^a-m]/g) || []).length;
   // return formatted string
+  return `${lengthOfInvalids}/${lengthOfInput}`;
 }
 
 module.exports = printerError;
