@@ -1,1 +1,3 @@
-console.log("Hello");
+function findNextSquare(input) {}
+
+module.exports = findNextSquare;
