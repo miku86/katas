@@ -4,7 +4,8 @@
   "description": "",
   "main": "multiples.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest",
+    "start": "node multiples.js"
   },
   "author": "miku86",
   "license": "GPL-3.0-or-later",

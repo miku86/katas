@@ -4,7 +4,8 @@
   "description": "finds printer errors",
   "main": "printer-errors.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node printer-errors.js"
   },
   "author": "miku86",
   "license": "GPL-3.0-or-later",
