@@ -1,0 +1,15 @@
+{
+  "name": "spinning-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spinning-words.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node spinning-words.js"
+  },
+  "author": "miku86",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
