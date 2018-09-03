@@ -12,11 +12,11 @@ Also feel free to [contact me](#contact)
 
 ## Installation
 
-[Instructions in the Parent Directory](https://www.codewars.com/kata/sorting-the-odd-way)
+[Instructions in the Parent Directory](https://github.com/miku86/katas#installation)
 
 ## About this Kata
 
-[Source](https://www.codewars.com/kata/multiples-of-3-or-5)
+[Source](https://www.codewars.com/kata/sorting-the-odd-way)
 
 I solve the Katas step-by-step, you can have a look at the commits.
 

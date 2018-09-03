@@ -12,11 +12,11 @@ Also feel free to [contact me](#contact)
 
 ## Installation
 
-[Instructions in the Parent Directory](https://www.codewars.com/kata/coding-meetup-number-15-higher-order-functions-series-find-the-odd-names)
+[Instructions in the Parent Directory](https://github.com/miku86/katas#installation)
 
 ## About this Kata
 
-[Source](https://www.codewars.com/kata/multiples-of-3-or-5)
+[Source](https://www.codewars.com/kata/find-the-odd-int)
 
 I solve the Katas step-by-step, you can have a look at the commits.
 
@@ -25,30 +25,12 @@ I wrote a [Post about Cleverness](https://dev.to/miku86/diary---20180830-4f5e).
 
 ### Instructions:
 
-You will be given an array of objects representing data about developers who have signed up to attend the next coding meetup that you are organising.
+Given an array, find the int that appears an odd number of times.
 
-write a function that when executed as findOddNames(list1) returns only the developers where if you add the ASCII representation of all characters in their first names, the result will be an odd number:
-
-Preserve the order of the original list.
-Return an empty array `[]` if there is no developer with an "odd" name.
-The input array and first names will always be valid and formatted as in the example above.
+There will always be only one integer that appears an odd number of times.
 
 ```
-Input:
-
-var list1 = [
-  { firstName: 'Aba', lastName: 'N.', country: 'Ghana', continent: 'Africa', age: 21, language: 'Python' },
-  { firstName: 'Abb', lastName: 'O.', country: 'Israel', continent: 'Asia', age: 39, language: 'Java' }
-];
-
-Output:
-
-[
-  { firstName: 'Abb', lastName: 'O.', country: 'Israel', continent: 'Asia', age: 39, language: 'Java' }
-]
-
-// Sum of ASCII codes of letters in 'Aba' is: 65 + 98 + 97 = 260 which is an even number
-// Sum of ASCII codes of letters in 'Abb' is: 65 + 98 + 98 = 261 which is an odd number
+[20,1,-1,2,-2,3,3,5,5,1,2,4,20,4,-1,-2,5] => 5
 ```
 
 ---
