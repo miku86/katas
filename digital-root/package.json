@@ -1,12 +1,11 @@
 {
-  "name": "multiples-3-or-5",
+  "name": "digital-root",
   "version": "1.0.0",
   "description": "",
-  "main": "multiples.js",
+  "main": "digital-root.js",
   "scripts": {
     "test": "jest",
-    "start": "node multiples.js",
-
+    "start": "node digital-root.js"
   },
   "author": "miku86",
   "license": "GPL-3.0-or-later",
