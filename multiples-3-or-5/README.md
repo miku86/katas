@@ -42,4 +42,7 @@ Distributed under the[GNU General Public License v3.0](https://choosealicense.co
 ## Contact
 
 - miku86
-- [E - Mail](mailto: hello@miku86.com) -[www](https://miku86.com) -[Github](https://github.com/miku86) -[Twitter](https://twitter.com/miku86com)
+- [E-Mail](mailto: hello@miku86.com)
+- [www](https://miku86.com)
+- [Github](https://github.com/miku86)
+- [Twitter](https://twitter.com/miku86com)
