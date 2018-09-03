@@ -1,0 +1,15 @@
+{
+  "name": "sorting-odd-way",
+  "version": "1.0.0",
+  "description": "[Read this in the Parent Directory](https://github.com/miku86/katas)",
+  "main": "sorting-odd-way.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node sorting-odd-way.js"
+  },
+  "author": "miku86",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
