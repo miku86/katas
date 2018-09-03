@@ -43,7 +43,7 @@ error_printer(s) => "8/22"
 
 ## License
 
-Distributed under the[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) license.
+Distributed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) license.
 
 ---
 

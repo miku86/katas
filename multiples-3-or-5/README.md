@@ -35,7 +35,7 @@ multiplesOf3Or5(20) => 78 // 3, 5, 6, 9, 10, 12, 15, 18 = 78
 
 ## License
 
-Distributed under the[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) license.
+Distributed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) license.
 
 ---
 
