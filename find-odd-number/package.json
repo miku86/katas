@@ -1,0 +1,15 @@
+{
+  "name": "find-odd-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "find-odd-number.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node find-odd-numbers.js"
+  },
+  "author": "miku86",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
