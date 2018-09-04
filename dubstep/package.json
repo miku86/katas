@@ -1,0 +1,15 @@
+{
+  "name": "dubstep",
+  "version": "1.0.0",
+  "description": "[Read this in the Parent Directory](https://github.com/miku86/katas)",
+  "main": "dubstep.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node dubstep.js"
+  },
+  "author": "miku86",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
