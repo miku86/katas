@@ -16,7 +16,7 @@ Also feel free to [contact me](#contact)
 
 ## About this Kata
 
-[Source](https://www.codewars.com/kata/dubstep)
+[Source](https://www.codewars.com/kata/iq-test)
 
 I solve the Katas step-by-step, you can have a look at the commits.
 
