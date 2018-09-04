@@ -1,7 +1,13 @@
 function songDecoder(input) {
-  // replace WUB with space
-  // replace multiple spaces with one space
-  // trim trailing and ending spaces
+  return (
+    input
+      // replace "WUB" with space
+      .replace(/WUB/g, ' ')
+      // replace multiple spaces with one space
+      .replace(/\s+/g, ' ')
+      // trim trailing and ending spaces
+      .trim()
+  );
 }
 
 module.exports = songDecoder;
