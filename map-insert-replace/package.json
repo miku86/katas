@@ -4,7 +4,8 @@
   "description": "[Read this in the Parent Directory](https://github.com/miku86/katas)",
   "main": "map-insert-replace.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node map-insert-replace.js"
   },
   "author": "miku86",
   "license": "GPL-3.0-or-later",
