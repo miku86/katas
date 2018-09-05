@@ -1,8 +1,16 @@
-function twoToOne(input) {
-  // join all inputs into one array
-  // sort array ascending
-  // change into Set to delete duplicates
-  // return as string
+function twoToOne(...input) {
+  return [
+    // change into Set to delete duplicates
+    ...new Set(
+      input
+        // join all inputs into one array
+        .join('')
+        .split('')
+        // sort array ascending
+        .sort(),
+    ),
+    // return as string
+  ].join('');
 }
 
 module.exports = twoToOne;
