@@ -1,4 +1,4 @@
-const getSum = require('./sum-of-number');
+const getSum = require('./sum-of-numbers');
 
 it('should input 1, 0 and output 1', () => {
   expect(getSum(1, 0)).toBe(1);
