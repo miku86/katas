@@ -1,4 +1,4 @@
-const isIsogram = './isograms';
+const isIsogram = require('./isograms');
 
 it('should input "Dermatoglyphics" and output true', () => {
   expect(isIsogram('Dermatoglyphics')).toBe(true);
