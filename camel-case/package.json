@@ -1,0 +1,15 @@
+{
+  "name": "camel-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "camel-case.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node camel-case.js"
+  },
+  "author": "miku86",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
