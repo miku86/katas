@@ -32,10 +32,10 @@ If the two numbers are equal return a or b.
 a and b are not ordered!
 
 ```
-GetSum(1, 0) == 1   // 1 + 0 = 1
-GetSum(0, 1) == 1   // 0 + 1 = 1
-GetSum(1, 1) == 1   // 1 Since both are same
-GetSum(-1, 2) == 2  // -1 + 0 + 1 + 2 = 2
+getSum(1, 0) == 1   // 1 + 0 = 1
+getSum(0, 1) == 1   // 0 + 1 = 1
+getSum(1, 1) == 1   // 1 Since both are same
+getSum(-1, 2) == 2  // -1 + 0 + 1 + 2 = 2
 ```
 
 ---
