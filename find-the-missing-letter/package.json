@@ -1,0 +1,15 @@
+{
+  "name": "find-the-missing-letter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "missing-letter.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node missing-letter.js"
+  },
+  "author": "miku86",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
